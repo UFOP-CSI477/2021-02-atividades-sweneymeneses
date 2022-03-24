@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Sweney Meneses
+- Matrícula: 18.1.8075
+- Curso: Sistemas de Informação0
+- Semestre/Ano correntes: 2021/02
+- Link para o seu GitHub: [sweneymeneses] (https://github.com/sweneymeneses)
 
 ## [Projeto final:](./Projeto/README.md)
 
